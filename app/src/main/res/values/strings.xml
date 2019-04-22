@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Details</string>
+
+    <string name="sign"> <font color="#008000">Its Almost There!!</font>
+    </string>
+
+
+
+
+        <string-array name="PhoneNumber">
+            <item>+965</item>
+            <item>+812</item>
+            <item>+456</item>
+        </string-array>
+
+</resources>
